@@ -60,7 +60,7 @@ Make the orders
         # sending the form
         Wait Until Keyword Succeeds    5x    10s    Send order
         # saving the order with resume and robot image
-        Save order as PDF
+        Wait Until Keyword Succeeds    5x    5s    Save order as PDF
         # make another order
         Click Button    id:order-another
     END
