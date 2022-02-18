@@ -16,3 +16,4 @@ temp/
 testrun/*
 .~lock*
 *.pkl
+*.csv
