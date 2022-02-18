@@ -1,4 +1,4 @@
-# Template: This is my robot for certitification level II
+# This is my robot for certitification level II
 
 If you have any comments, I will be waiting for them.
 
