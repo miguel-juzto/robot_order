@@ -1,4 +1,3 @@
-devdata/
 output/
 venv/
 temp/
@@ -17,3 +16,4 @@ testrun/*
 .~lock*
 *.pkl
 *.csv
+output.xml
